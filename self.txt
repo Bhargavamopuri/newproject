@@ -1,0 +1,12 @@
+
+Hi myself bhargava
+       first of all thank you for giving me this oppurtuniy to introduce myself
+	I completed my graduation with a bachelor of science in computers in 2024 from sri sai degree college ,affiliated with sri krishna-
+	devaraya university in anathapur,Andhrapradesh. currently iam staying in hyderbad, iam originally from Anathapuram, Andhrapradesh.
+	    I am passinoate about devops tools and practises, i have strong intrest in devops and have learned various devops tools, including
+		  version control system using git , continous integration and continous deployment with jenkins, build automation using maven,and 
+		  containerization purpose using docker and container orchestration with kubernetes, configuration management for using ansible.
+		  Most of my devops tools are implemented on cloud platforms , primarily AWS, where i worked with services such as EC2, VPC ROUTE
+		  TABLES,SUBNETS, IAM, CLOUDWATCH LOADBALANCERS, ROUTE53, S3, SNS, AMI. 
+		   I also have a basic understanding of Azure.
+		     my short term goal is to get a job 
